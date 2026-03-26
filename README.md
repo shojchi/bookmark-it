@@ -12,4 +12,4 @@
 
 
 > [!CAUTION]
-> don’t move or delete the source folder after loading it.
+> don’t move or delete the source folder after loading it
