@@ -1,10 +1,10 @@
 # Setup instruction:
 
 1. run in your terminal
-> git clone git@github.com:shojchi/bookmark-it.git
+``` git clone git@github.com:shojchi/bookmark-it.git ```
 
 2. open in a Chrome-based browser 
-> chrome://extensions/
+``` chrome://extensions/ ```
 
 3. enable toggler developer mode in the top-right corner
 
