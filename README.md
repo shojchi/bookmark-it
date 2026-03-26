@@ -9,3 +9,7 @@
 3. enable toggler developer mode in the top-right corner
 
 4. click load unpacked at the top-left corner and choose the path to this repo folder
+
+
+> [!CAUTION]
+> don’t move or delete the source folder after loading it.
